@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sr. SDET @ Warner Bros. Discovery</h1>
-
+<h1 align="center">Hi 👋, I'm Sr. SDET @ Warner Bros. Discovery</h1> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elanthingal&label=Profile%20views&color=0e75b6&style=flat" alt="Elanthingal" /> </p> 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20developer%20in%20Test;&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22">
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elanthingal&label=Profile%20views&color=0e75b6&style=flat" alt="Elanthingal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elanthingal" alt="Elanthingal" /></a> </p>
 
@@ -32,13 +31,4 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <h3 align="left">Support:</h3>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elanthingal&show_icons=true&locale=en&layout=compact" alt="Elanthingal" /></p>-->
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Elanthingal&langs_count=40&layout=compact&theme=tokyonight&include_all_commits=true&line_height=40">
-</p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elanthingal&show_icons=true&locale=en" alt="Elanthingal" /></p>-->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elanthingal&theme=vue-dark)](https://github.com/Elanthingal)-->
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elanthingal&" alt="Elanthingal" /></p>-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elanthingal&show_icons=true&locale=en&layout=compact" alt="Elanthingal" /></p>
