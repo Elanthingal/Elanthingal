@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sr. SDET @ Warner Bros. Discovery</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20developer%20in%20Test;&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20developer%20in%20Test;&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22">
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elanthingal&label=Profile%20views&color=0e75b6&style=flat" alt="Elanthingal" /> </p>
